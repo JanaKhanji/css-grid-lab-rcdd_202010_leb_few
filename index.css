@@ -19,5 +19,9 @@ body {
 
 /* add the .bigItem class */
 .bigItem{
+<<<<<<< HEAD
    grid-area: 1 / 2 / 3 / 4;
+=======
+   grid-area: 1 / 2 / 3 / 3;
+>>>>>>> 313cd2784692e33b6d0e69843629ce15e0178b97
 }
